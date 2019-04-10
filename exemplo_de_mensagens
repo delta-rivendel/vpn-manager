@@ -1,8 +1,0 @@
-[{'type': 'user_typing', 'channel': 'DCKQXCBPF', 'user': 'UCJUG1456'}]
-[]
-[{'type': 'message', 'user': 'UCJUG1456', 'text': 'teste', 'client_msg_id': 'cc7dd1b4-5aef-41ad-81ba-3a230874d04f', 'team': 'TCK3ENLTB', 'channel': 'DCKQXCBPF', 'event_ts': '1535855522.000100', 'ts': '1535855522.000100'}]
-[{'type': 'desktop_notification', 'title': 'fatec-tcc', 'subtitle': 'Rafael Vinicius Cardoso de Oliveira', 'msg': '1535855522.000100', 'ts': '1535855522.000100', 'content': 'teste', 'channel': 'DCKQXCBPF', 'launchUri': 'slack://channel?id=DCKQXCBPF&message=1535855522000100&team=TCK3ENLTB', 'avatarImage': 'https://secure.gravatar.com/avatar/38380a444884d31e24bba4f06dd25523.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0025-192.png', 'ssbFilename': 'knock_brush.mp3', 'imageUri': None, 'is_shared': False, 'event_ts': '1535855523.000100'}]
-
-
-{u'launchUri': u'slack://channel?id=DCKQXCBPF&message=1535862863000100&team=TCK3ENLTB', u'subtitle': u'Rafael Vinicius Cardoso de Oliveira', u'is_shared': False, u'title': u'fatec-tcc', u'ssbFilename': u'knock_brush.mp3', u'avatarImage': u'https://secure.gravatar.com/avatar/38380a444884d31e24bba4f06dd25523.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0025-192.png', u'ts': u'1535862863.000100', u'imageUri': None, u'content': u'serio que funcionou?', u'event_ts': u'1535862863.000100', u'msg': u'1535862863.000100', u'type': u'desktop_notification', u'channel': u'DCKQXCBPF'}
-{u'source_team': u'TCK3ENLTB', u'text': u'funcionou', u'ts': u'1535862863.000200', u'user': u'UCM115Q9L', u'team': u'TCK3ENLTB', u'type': u'message', u'channel': u'DCKQXCBPF'}
